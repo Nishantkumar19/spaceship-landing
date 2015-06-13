@@ -1,7 +1,7 @@
 html, body {
   height: 100%;
   margin: 0px;
-  padding: 0px;
+  padding: 5px;
   background-color: #eee;
 }
 
@@ -20,3 +20,10 @@ html, body {
 /* TODO: set css style for id "spaceship" as point cursor and top margin is 15px */
 
 /* TODO: set css style for message poped up as you like */
+
+.spaceship {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  height: 32px;
+  cursor: pointer;
+}
